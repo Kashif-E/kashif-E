@@ -23,6 +23,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Make Drag And Drop In Recyclerview Easy and Pretty](https://kashif-mehmood-km.medium.com/make-drag-and-drop-in-recyclerview-easy-and-pretty-aadb2b693b85?source=rss-c403e2b09f16------2)
+- [Make A Camera App Using CameraX API Part-1](https://kashif-mehmood-km.medium.com/make-a-camera-app-using-camerax-api-part-1-db8fa0e176ce?source=rss-c403e2b09f16------2)
+- [We Need A Brain-Computer Interface For Extended Reality](https://kashif-mehmood-km.medium.com/we-need-a-brain-computer-interface-for-extended-reality-ab22ce893b84?source=rss-c403e2b09f16------2)
+- [Handling Permissions in Android using Dexter](https://kashif-mehmood-km.medium.com/handling-permissions-in-android-using-dexter-47a34f332a7c?source=rss-c403e2b09f16------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
