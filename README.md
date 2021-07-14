@@ -23,7 +23,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [How Augmented Reality Can Reshapr Tourism in Pakistan](https://kashif-mehmood-km.medium.com/how-augmented-reality-can-reshapr-tourism-in-pakistan-b1a7d253a127?source=rss-c403e2b09f16------2)
+- [How Augmented Reality Can Reshape Tourism in Pakistan](https://kashif-mehmood-km.medium.com/how-augmented-reality-can-reshapr-tourism-in-pakistan-b1a7d253a127?source=rss-c403e2b09f16------2)
 - [Entity Extraction from Text on Android using ML Kit in less than 5 minutes](https://kashif-mehmood-km.medium.com/entity-extraction-from-text-on-android-using-ml-kit-in-less-than-5-minutes-7efef3ee2e20?source=rss-c403e2b09f16------2)
 - [Make Drag And Drop In Recyclerview Easy and Pretty](https://kashif-mehmood-km.medium.com/make-drag-and-drop-in-recyclerview-easy-and-pretty-aadb2b693b85?source=rss-c403e2b09f16------2)
 - [Make A Camera App Using CameraX API Part-1](https://kashif-mehmood-km.medium.com/make-a-camera-app-using-camerax-api-part-1-db8fa0e176ce?source=rss-c403e2b09f16------2)
