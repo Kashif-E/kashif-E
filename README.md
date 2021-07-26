@@ -2,9 +2,10 @@
 <h3 align="center">A Software Engineer in love with Emerging Technologies. Working with Android Development primarily but always trying new and different things. In Love with AR</h3>
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kashif-e&show_icons=true&locale=en&layout=compact" alt="kashif-e" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kashif-e&show_icons=true&locale=en" alt="kashif-e" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kashif-e&show_icons=true&locale=en&layout=compact" alt="kashif-e" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kashif-e&show_icons=true&locale=en" alt="kashif-e" /></p>
+
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kashif-e&label=Profile%20views&color=0e75b6&style=flat" alt="kashif-e" /> </p>
 
