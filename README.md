@@ -6,9 +6,9 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kashif-e&show_icons=true&locale=en" alt="kashif-e" /></p>
 
-<p align="lcenter"> <img src="https://komarev.com/ghpvc/?username=kashif-e&label=Profile%20views&color=0e75b6&style=flat" alt="kashif-e" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=kashif-e&label=Profile%20views&color=0e75b6&style=flat" alt="kashif-e" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kashif-e" alt="kashif-e" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kashif-e" alt="kashif-e" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/kashif_mehmood_" target="blank"><img src="https://img.shields.io/twitter/follow/kashif_mehmood_?logo=twitter&style=for-the-badge" alt="kashif_mehmood_" /></a> </p>
 
