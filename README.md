@@ -29,7 +29,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [The What, Why and How, of Preferences Datastore](https://proandroiddev.com/the-what-why-and-how-of-preferences-datastore-dc0dda15dfbb?source=rss-c403e2b09f16------2)
+- [Preferences Datastore in Android Kotlin](https://proandroiddev.com/the-what-why-and-how-of-preferences-datastore-dc0dda15dfbb?source=rss-c403e2b09f16------2)
 - [How Augmented Reality Can Reshape Tourism in Pakistan](https://kashif-mehmood-km.medium.com/how-augmented-reality-can-reshapr-tourism-in-pakistan-b1a7d253a127?source=rss-c403e2b09f16------2)
 - [Entity Extraction using ML Kit on Android in less than 5 minutes](https://proandroiddev.com/entity-extraction-from-text-on-android-using-ml-kit-in-less-than-5-minutes-7efef3ee2e20?source=rss-c403e2b09f16------2)
 - [Make Drag And Drop In Recyclerview Easy and Pretty](https://proandroiddev.com/make-drag-and-drop-in-recyclerview-easy-and-pretty-aadb2b693b85?source=rss-c403e2b09f16------2)
