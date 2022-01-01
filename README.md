@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kashif Mehmood</h1>
-<h3 align="center">A Software Engineer in love with Emerging Technologies. Working with Android Development primarily but always trying new and different things. In Love with AR</h3>
+<h3 align="center">Kashif is a passionate Software engineer who loves to learn new things and one thing that he loves more is sharing what he has learned. He is well versed in Modern Android Development concepts with a firm grasp of software architecture and design. Kashif loves to write code that is clean, scalable, and maintainable. He also is a technical writer and writes on medium, with contributions to opensource as well, and has given talks on various technical topics on different events. Kashif has previously worked with well-known names of Pakistan's software industry such as VisionX and Telenor microfinance bank, currently building a product that is backed by Y-Combinator called Markaz (YC-22) </h3>
 
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kashif-e&show_icons=true&locale=en" alt="kashif-e" /></p>
@@ -13,7 +13,7 @@
 
 <p align="left"> <a href="https://twitter.com/kashif_mehmood_" target="blank"><img src="https://img.shields.io/twitter/follow/kashif_mehmood_?logo=twitter&style=for-the-badge" alt="kashif_mehmood_" /></a> </p>
 
-- 🔭 I’m currently working on [Mailroom](https://play.google.com/store/apps/details?id=app.px.packagex&hl=en)
+- 🔭 I’m currently working on [MARKAZ](https://play.google.com/store/apps/details?id=com.markaz.app)
 
 - 🌱 I’m currently learning **Jetpack Compose**
 
