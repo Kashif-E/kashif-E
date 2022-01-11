@@ -29,7 +29,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Advanced Entity Extraction and OCR with MLKIT on Android](https://proandroiddev.com/advanced-entity-extraction-and-ocr-with-mlkit-on-android-2b3b768c094a?source=rss-c403e2b09f16------2)
+- [Advanced Entity Extraction and OCR with MLKIT on Android](https://towardsdev.com/advanced-entity-extraction-and-ocr-with-mlkit-on-android-2b3b768c094a?source=rss-c403e2b09f16------2)
 - [Clean ViewModels with Kotlin Sealed Classes. A Better way to handle Errors](https://kashif-mehmood-km.medium.com/clean-viewmodels-with-kotlin-sealed-classes-a-better-way-to-handle-errors-ae3467081fda?source=rss-c403e2b09f16------2)
 - [Deep Dive Into Preferences Datastore in Android](https://proandroiddev.com/the-what-why-and-how-of-preferences-datastore-dc0dda15dfbb?source=rss-c403e2b09f16------2)
 - [How Augmented Reality Can Reshape Tourism in Pakistan](https://kashif-mehmood-km.medium.com/how-augmented-reality-can-reshapr-tourism-in-pakistan-b1a7d253a127?source=rss-c403e2b09f16------2)
