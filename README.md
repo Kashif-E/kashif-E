@@ -29,10 +29,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [CI/CD Pipeline for Flavoured Android Apps using Fastlane and Github Actions](https://blog.kotlin-academy.com/ci-cd-pipeline-for-flavoured-android-apps-using-fastlane-and-github-actions-2362253a7f8?source=rss-c403e2b09f16------2)
 - [CI/CD Pipeline for Flavoured Android Apps using Fastlane and Github Actions](https://proandroiddev.com/ci-cd-pipeline-for-flavoured-android-apps-using-fastlane-and-github-actions-51667b7175af?source=rss-c403e2b09f16------2)
-- [CI/CD Pipeline for Flavoured Android Apps using Fastlane and Github Actions](https://medium.com/geekculture/ci-cd-pipeline-for-flavoured-android-apps-using-fastlane-and-github-actions-4386bcee0e62?source=rss-c403e2b09f16------2)
-- [CI/CD Pipeline for Flavoured Android Apps using Fastlane and Github Actions](https://towardsdev.com/setting-up-ci-cd-for-firebase-app-distribution-using-fastlane-github-actions-and-build-flavours-2e8f5ca91d0d?source=rss-c403e2b09f16------2)
+- [Parallel API calls using Coroutines, having different return types](https://towardsdev.com/parallel-api-calls-using-coroutines-having-different-return-types-4d269a1b88d4?source=rss-c403e2b09f16------2)
+- [Building An OCR app with Entity Extracting Using ML-KIT](https://towardsdev.com/advanced-entity-extraction-and-ocr-with-mlkit-on-android-2b3b768c094a?source=rss-c403e2b09f16------2)
+- [Clean ViewModels with Kotlin Sealed Classes. A Better way to handle Errors](https://kashif-mehmood-km.medium.com/clean-viewmodels-with-kotlin-sealed-classes-a-better-way-to-handle-errors-ae3467081fda?source=rss-c403e2b09f16------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
