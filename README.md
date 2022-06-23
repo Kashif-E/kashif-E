@@ -31,7 +31,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [CI/CD Pipeline for Flavoured Android Apps using Fastlane and Github Actions](https://proandroiddev.com/ci-cd-pipeline-for-flavoured-android-apps-using-fastlane-and-github-actions-51667b7175af?source=rss-c403e2b09f16------2)
 - [Parallel API calls using Coroutines, having different return types](https://towardsdev.com/parallel-api-calls-using-coroutines-having-different-return-types-4d269a1b88d4?source=rss-c403e2b09f16------2)
-- [Building An OCR app with Entity Extracting Using ML-KIT](https://towardsdev.com/advanced-entity-extraction-and-ocr-with-mlkit-on-android-2b3b768c094a?source=rss-c403e2b09f16------2)
+- [Building An OCR app with Entity Extraction Using ML-KIT](https://towardsdev.com/advanced-entity-extraction-and-ocr-with-mlkit-on-android-2b3b768c094a?source=rss-c403e2b09f16------2)
 - [Clean ViewModels with Kotlin Sealed Classes. A Better way to handle Errors](https://kashif-mehmood-km.medium.com/clean-viewmodels-with-kotlin-sealed-classes-a-better-way-to-handle-errors-ae3467081fda?source=rss-c403e2b09f16------2)
 <!-- BLOG-POST-LIST:END -->
 
