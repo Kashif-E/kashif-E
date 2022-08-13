@@ -15,17 +15,17 @@
 
 - 🔭 I’m currently working on [MARKAZ](https://play.google.com/store/apps/details?id=com.markaz.app)
 
-- 🌱 I’m currently learning **Jetpack Compose**
+- 🌱 I’m currently learning **Ceompose Web**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Kashif-E?tab=repositories](https://github.com/Kashif-E?tab=repositories)
 
 - 📝 I regularly write articles on [https://kashif-mehmood-km.medium.com/](https://kashif-mehmood-km.medium.com/)
 
-- 💬 Ask me about **Android , ARCore , Sceneform , Jetpack , MVVM**
+- 💬 Ask me about **Android , IOS , KMM, Jetpack , Clean Architecture, ARCore, Software Architecture**
 
 - 📫 How to reach me **kashismails@gmail.com**
 
-- ⚡ Fun fact **I cant stop talking when it comes to emerging technologies**
+- ⚡ Fun fact **I cant stop talking when it comes to Software architecture and Emerging technologies**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
