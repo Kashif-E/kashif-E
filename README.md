@@ -15,7 +15,7 @@
 
 - 🔭 I’m currently working on [MARKAZ](https://play.google.com/store/apps/details?id=com.markaz.app)
 
-- 🌱 I’m currently learning **Ceompose Web**
+- 🌱 I’m currently learning **Compose Web**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Kashif-E?tab=repositories](https://github.com/Kashif-E?tab=repositories)
 
