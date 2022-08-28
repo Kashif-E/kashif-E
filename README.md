@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kashif Mehmood</h1>
-<h3 align="center">I am a passionate Software engineer who loves to learn new things and one thing that he loves more is sharing what he has learned. I am well versed in Modern Android Development concepts with a firm grasp of software architecture and design. Love to write code that is clean, scalable, and maintainable. I love to write on medium on various technical topics, with contributions to open-source, and have given talks on various technical topics on different events.Previously I have worked with well-known names of Pakistan's software industry such as VisionX and Telenor micro-finance bank, currently working as a Mobile lead at Markaz(YC- W22) building a product for the masses to grow and have financial freedom, in the same time supercharging the rails of e-commerce in Pakistan.</h3>
+<h3 align="center">A Software Engineer, In love with Kotlin.</h3>
 
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kashif-e&show_icons=true&locale=en" alt="kashif-e" /></p>
