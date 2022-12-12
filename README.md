@@ -31,10 +31,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [CI/CD for Android Developers III | Building Pipelines with Github Actions](https://proandroiddev.com/ci-cd-for-android-developers-iii-building-pipelines-with-github-actions-e328f26f414a?source=rss-c403e2b09f16------2)
 - [CI/CD for Android Devs II | GitHub Actions Masterclass](https://proandroiddev.com/ci-cd-for-android-devs-ii-github-actions-masterclass-8a033bbaf42d?source=rss-c403e2b09f16------2)
 - [CI/CD Pipeline for Flavoured Android Apps using Fastlane and Github Actions](https://proandroiddev.com/ci-cd-pipeline-for-flavoured-android-apps-using-fastlane-and-github-actions-51667b7175af?source=rss-c403e2b09f16------2)
 - [Parallel API calls using Coroutines, having different return types](https://kashif-mehmood-km.medium.com/parallel-api-calls-using-coroutines-having-different-return-types-4d269a1b88d4?source=rss-c403e2b09f16------2)
-- [Building An OCR app with Entity Extraction Using ML-KIT](https://towardsdev.com/advanced-entity-extraction-and-ocr-with-mlkit-on-android-2b3b768c094a?source=rss-c403e2b09f16------2)
 <!-- BLOG-POST-LIST:END -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
