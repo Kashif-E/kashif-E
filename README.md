@@ -15,7 +15,7 @@
 
 <p align="left"> <a href="https://twitter.com/kashif_mehmood_" target="blank"><img src="https://img.shields.io/twitter/follow/kashif_mehmood_?logo=twitter&style=for-the-badge" alt="kashif_mehmood_" /></a> </p>
 
-- 🔭 I’m currently working on [MARKAZ](https://play.google.com/store/apps/details?id=com.markaz.app)
+- 🔭 I’m currently working on [LiveView Native](liveview)
 
 - 🌱 I’m currently learning **Compose Web**
 
@@ -27,7 +27,7 @@
 
 - 📫 How to reach me **kashismails@gmail.com**
 
-- ⚡ Fun fact **I cant stop talking when it comes to Software architecture and Emerging technologies**
+- ⚡ Fun fact **I cant stop talking when it comes to KMM, Software architecture and Emerging technologies**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
