@@ -31,10 +31,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Unifying Video Players: Compose Multiplatform for iOS, Android &amp; Desktop](https://proandroiddev.com/unifying-video-players-compose-multiplatform-for-ios-android-desktop-aa920d29bbf3?source=rss-c403e2b09f16------2)
+- [Custom Font Magic in Compose Multiplatform: Unlock Your Creativity! ✨](https://proandroiddev.com/custom-font-magic-in-compose-multiplatform-unlock-your-creativity-dcd0c9fa7756?source=rss-c403e2b09f16------2)
 - [Mastering Gradle Dependency Management with Version Catalogs: A Comprehensive Guide](https://proandroiddev.com/mastering-gradle-dependency-management-with-version-catalogs-a-comprehensive-guide-d60e2fd1dac2?source=rss-c403e2b09f16------2)
 - [Adapting Material Theming from Jetpack Compose to SwiftUI](https://medium.com/geekculture/adapting-material-theming-from-jetpack-compose-to-swiftui-e1bb3f40651c?source=rss-c403e2b09f16------2)
-- [CI/CD for Android Developers III | Building Pipelines with Github Actions](https://proandroiddev.com/ci-cd-for-android-developers-iii-building-pipelines-with-github-actions-e328f26f414a?source=rss-c403e2b09f16------2)
-- [CI/CD for Android Devs II | GitHub Actions Masterclass](https://proandroiddev.com/ci-cd-for-android-devs-ii-github-actions-masterclass-8a033bbaf42d?source=rss-c403e2b09f16------2)
 <!-- BLOG-POST-LIST:END -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
