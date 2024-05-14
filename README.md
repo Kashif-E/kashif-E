@@ -31,10 +31,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Why Calling a Composable from a Regular Function Isn’t Possible](https://proandroiddev.com/why-calling-a-composable-from-a-regular-function-isnt-possible-b9d8f77b6658?source=rss-c403e2b09f16------2)
 - [How to use Coil in Compose Multiplatform](https://proandroiddev.com/coil-for-compose-multiplatform-5745ea76356f?source=rss-c403e2b09f16------2)
 - [Tracking Lifecycle changes in Compose Multiplatform: IOS and Android](https://proandroiddev.com/tracking-lifecycle-changes-in-compose-multiplatform-ios-and-android-486005919ec8?source=rss-c403e2b09f16------2)
 - [How to use Resources in Compose Multiplatform](https://proandroiddev.com/how-to-use-resources-in-compose-multiplatform-77a6552b505d?source=rss-c403e2b09f16------2)
-- [Unifying Video Players: Compose Multiplatform for iOS, Android &amp; Desktop](https://proandroiddev.com/unifying-video-players-compose-multiplatform-for-ios-android-desktop-aa920d29bbf3?source=rss-c403e2b09f16------2)
 <!-- BLOG-POST-LIST:END -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
