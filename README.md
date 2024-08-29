@@ -31,10 +31,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Voyaging Through Compose Multiplatform with Native iOS Navigation](https://proandroiddev.com/voyaging-through-compose-multiplatform-with-native-ios-navigation-59683464e070?source=rss-c403e2b09f16------2)
 - [Why Calling a Composable from a Regular Function Isn’t Possible](https://proandroiddev.com/why-calling-a-composable-from-a-regular-function-isnt-possible-b9d8f77b6658?source=rss-c403e2b09f16------2)
 - [How to use Coil in Compose Multiplatform](https://proandroiddev.com/coil-for-compose-multiplatform-5745ea76356f?source=rss-c403e2b09f16------2)
 - [Tracking Lifecycle changes in Compose Multiplatform: IOS and Android](https://proandroiddev.com/tracking-lifecycle-changes-in-compose-multiplatform-ios-and-android-486005919ec8?source=rss-c403e2b09f16------2)
-- [How to use Resources in Compose Multiplatform](https://proandroiddev.com/how-to-use-resources-in-compose-multiplatform-77a6552b505d?source=rss-c403e2b09f16------2)
 <!-- BLOG-POST-LIST:END -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
