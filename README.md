@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kashif Mehmood</h1>
-<h3 align="center">A Software Engineer, In love with Kotlin.</h3>
+<h3 align="center">Kotlin enthusiast having practical experience in Kotlin Multiplatform, Android, iOS, Jetpack and Multiplatform Compose.</h3>
 
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kashif-e&show_icons=true&locale=en" alt="kashif-e" /></p>
@@ -15,19 +15,19 @@
 
 <p align="left"> <a href="https://twitter.com/kashif_mehmood_" target="blank"><img src="https://img.shields.io/twitter/follow/kashif_mehmood_?logo=twitter&style=for-the-badge" alt="kashif_mehmood_" /></a> </p>
 
-- 🔭 I’m currently working on [LiveView Native](liveview)
+- 🔭 I’m currently working on [Searchify](https://github.com/Kashif-E/Searchify)
 
-- 🌱 I’m currently learning **Compose Web**
+- 🌱 I’m currently learning **Serverless cloud with AWS and Kotlin + GraalVM**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Kashif-E?tab=repositories](https://github.com/Kashif-E?tab=repositories)
 
 - 📝 I regularly write articles on [https://kashif-mehmood-km.medium.com/](https://kashif-mehmood-km.medium.com/)
 
-- 💬 Ask me about **Android , IOS , KMM, Jetpack , Clean Architecture, ARCore, Software Architecture**
+- 💬 Ask me about **Android, IOS, KMP, Jetpack, Clean Architecture, ARCore, Software Architecture, AWS**
 
-- 📫 How to reach me **kashismails@gmail.com**
+- 📫 How to reach me **kashifmehmooddev06@gmail.com**
 
-- ⚡ Fun fact **I cant stop talking when it comes to KMM, Software architecture and Emerging technologies**
+- ⚡ Fun fact ** I like to cook desi/Arabic cousins**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
