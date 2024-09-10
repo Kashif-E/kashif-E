@@ -27,7 +27,7 @@
 
 - 📫 How to reach me **kashifmehmooddev06@gmail.com**
 
-- ⚡ Fun fact **I like to cook desi/Arabic cousins**
+
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
