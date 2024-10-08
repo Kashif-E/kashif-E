@@ -2,10 +2,10 @@
 <h3 align="center">Kotlin enthusiast having practical experience in Kotlin Multiplatform, Android, iOS, Jetpack and Multiplatform Compose.</h3>
 
 
-<div style="display: flex; justify-content: center;">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kashif-e&show_icons=true&locale=en" alt="kashif-e" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kashif-e&show_icons=true&locale=en&layout=compact" alt="kashif-e" />
-</div>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kashif-e&show_icons=true&locale=en" alt="kashif-e" /></p>
+
+
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kashif-e&show_icons=true&locale=en&layout=compact" alt="kashif-e" /></p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kashif-e&label=Profile%20views&color=0e75b6&style=flat" alt="kashif-e" /> </p>
 
