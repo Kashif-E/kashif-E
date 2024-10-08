@@ -15,7 +15,7 @@
 
 <p align="left"> <a href="https://twitter.com/kashif_mehmood_" target="blank"><img src="https://img.shields.io/twitter/follow/kashif_mehmood_?logo=twitter&style=for-the-badge" alt="kashif_mehmood_" /></a> </p>
 
-- 🔭 I’m currently working on [Searchify](https://github.com/Kashif-E/Searchify)
+- 🔭 I’m currently working on [KMPMovies](https://github.com/Kashif-E/Searchify), [Voyant](https://github.com/Kashif-E/Voyant) and [CameraK](https://github.com/Kashif-E/CameraK)
 
 - 🌱 I’m currently learning **Serverless cloud with AWS and Kotlin + GraalVM**
 
@@ -23,7 +23,7 @@
 
 - 📝 I regularly write articles on [https://kashif-mehmood-km.medium.com/](https://kashif-mehmood-km.medium.com/)
 
-- 💬 Ask me about **Android, IOS, KMP, Jetpack, Clean Architecture, ARCore, Software Architecture, AWS**
+- 💬 Ask me about **Android, IOS, KMP, Jetpack Compose, Compose Multiplatform ARCore, Software Architecture, AWS**
 
 - 📫 How to reach me **kashifmehmooddev06@gmail.com**
 
