@@ -11,8 +11,6 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kashif-e&label=Profile%20views&color=0e75b6&style=flat" alt="kashif-e" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kashif-e" alt="kashif-e" /></a> </p>
-
 
 - 🔭 I’m currently working on [KMPMovies](https://github.com/Kashif-E/Searchify), [Voyant](https://github.com/Kashif-E/Voyant) and [CameraK](https://github.com/Kashif-E/CameraK)
 
