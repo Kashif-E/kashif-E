@@ -13,7 +13,6 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kashif-e" alt="kashif-e" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/kashif_mehmood_" target="blank"><img src="https://img.shields.io/twitter/follow/kashif_mehmood_?logo=twitter&style=for-the-badge" alt="kashif_mehmood_" /></a> </p>
 
 - 🔭 I’m currently working on [KMPMovies](https://github.com/Kashif-E/Searchify), [Voyant](https://github.com/Kashif-E/Voyant) and [CameraK](https://github.com/Kashif-E/CameraK)
 
