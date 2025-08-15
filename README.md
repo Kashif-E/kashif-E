@@ -10,10 +10,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Building Agentic Deep Research with Kotlin and Koog: Part1](https://proandroiddev.com/building-agentic-deep-research-with-kotlin-and-koog-part1-e48c38983ac6?source=rss-c403e2b09f16------2)
 - [Building a Cross-Platform Camera App with CameraK and Compose Multiplatform](https://proandroiddev.com/building-a-cross-platform-camera-app-with-camerak-and-compose-multiplatform-ec92cb944ec5?source=rss-c403e2b09f16------2)
 - [Building A Custom Design System in Compose Multiplatform](https://proandroiddev.com/building-a-custom-design-system-in-compose-multiplatform-6f5f42f06fa0?source=rss-c403e2b09f16------2)
 - [Using Native iOS Navigation from Compose Multiplatform](https://proandroiddev.com/voyaging-through-compose-multiplatform-with-native-ios-navigation-59683464e070?source=rss-c403e2b09f16------2)
-- [Why Calling a Composable from a Regular Function Isn’t Possible](https://proandroiddev.com/why-calling-a-composable-from-a-regular-function-isnt-possible-b9d8f77b6658?source=rss-c403e2b09f16------2)
 <!-- BLOG-POST-LIST:END -->
 
 
