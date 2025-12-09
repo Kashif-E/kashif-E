@@ -10,10 +10,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [AWS Lambda Managed Instances: EC2 Cost Optimization, Multi-Concurrency &amp; Best Practices](https://kashif-mehmood-km.medium.com/aws-lambda-managed-instances-ec2-cost-optimization-multi-concurrency-best-practices-05de52219b75?source=rss-c403e2b09f16------2)
 - [Building Agentic Deep Research with Kotlin and Koog: Part1](https://proandroiddev.com/building-agentic-deep-research-with-kotlin-and-koog-part1-e48c38983ac6?source=rss-c403e2b09f16------2)
 - [Building a Cross-Platform Camera App with CameraK and Compose Multiplatform](https://proandroiddev.com/building-a-cross-platform-camera-app-with-camerak-and-compose-multiplatform-ec92cb944ec5?source=rss-c403e2b09f16------2)
 - [Building A Custom Design System in Compose Multiplatform](https://proandroiddev.com/building-a-custom-design-system-in-compose-multiplatform-6f5f42f06fa0?source=rss-c403e2b09f16------2)
-- [Using Native iOS Navigation from Compose Multiplatform](https://proandroiddev.com/voyaging-through-compose-multiplatform-with-native-ios-navigation-59683464e070?source=rss-c403e2b09f16------2)
 <!-- BLOG-POST-LIST:END -->
 
 
