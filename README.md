@@ -10,10 +10,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [A 397B Model Running on a MacBook. 48 GB of RAM. No Cloud](https://kashif-mehmood-km.medium.com/a-397b-model-running-on-a-macbook-48-gb-of-ram-no-cloud-d9e41e6ad30d?source=rss-c403e2b09f16------2)
 - [Netflix Just Open-Sourced VOID: A Model that Removes Objects from Videos](https://kashif-mehmood-km.medium.com/netflix-just-open-sourced-a-video-editor-that-understands-physics-4a05957d8551?source=rss-c403e2b09f16------2)
 - [Run 32B Models on Your Mac With 5x Less Memory: Google’s TurboQuant Hits Apple Silicon](https://kashif-mehmood-km.medium.com/run-32b-models-on-your-mac-with-5x-less-memory-googles-turboquant-hits-apple-silicon-9ac8c6b1dff5?source=rss-c403e2b09f16------2)
 - [Building a Deep Research Agent with Koog — Teaching Your Agent to Think in Phases](https://proandroiddev.com/building-a-deep-research-agent-with-koog-teaching-your-agent-to-think-in-phases-d5681ea7d237?source=rss-c403e2b09f16------2)
+- [The Ball Catching Problem: What are Kalman Filters](https://kashif-mehmood-km.medium.com/what-are-kalman-filters-51e506e738a3?source=rss-c403e2b09f16------2)
 <!-- BLOG-POST-LIST:END -->
 
 
