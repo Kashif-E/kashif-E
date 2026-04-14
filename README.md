@@ -10,10 +10,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [A 397B Model Running on a MacBook. 48 GB of RAM. No Cloud](https://pub.towardsai.net/a-397b-model-running-on-a-macbook-48-gb-of-ram-no-cloud-3fe52022b839?source=rss-c403e2b09f16------2)
 - [Netflix Just Open-Sourced VOID: A Model that Removes Objects from Videos](https://kashif-mehmood-km.medium.com/netflix-just-open-sourced-a-video-editor-that-understands-physics-4a05957d8551?source=rss-c403e2b09f16------2)
 - [Building a Deep Research Agent with Koog — Teaching Your Agent to Think in Phases](https://proandroiddev.com/building-a-deep-research-agent-with-koog-teaching-your-agent-to-think-in-phases-d5681ea7d237?source=rss-c403e2b09f16------2)
 - [The Ball Catching Problem: What are Kalman Filters](https://kashif-mehmood-km.medium.com/what-are-kalman-filters-51e506e738a3?source=rss-c403e2b09f16------2)
-- [Building Agentic Deep Research with Kotlin and Koog: Part1](https://proandroiddev.com/building-agentic-deep-research-with-kotlin-and-koog-part1-e48c38983ac6?source=rss-c403e2b09f16------2)
 <!-- BLOG-POST-LIST:END -->
 
 
