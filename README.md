@@ -10,10 +10,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Building a deep research agent with koog: Giving your agent memory and real tools](https://proandroiddev.com/building-a-deep-research-agent-with-koog-giving-your-agent-memory-and-real-tools-f75d81d672a4?source=rss-c403e2b09f16------2)
 - [AWS Agent Registry: The Governance Layer Your Agent Sprawl Needs](https://pub.towardsai.net/aws-agent-registry-the-governance-layer-your-agent-sprawl-needs-d87d90b4deb1?source=rss-c403e2b09f16------2)
 - [Run 32B Models on Your Mac With 5x Less Memory: Google’s TurboQuant Hits Apple Silicon](https://pub.towardsai.net/run-32b-models-on-your-mac-with-5x-less-memory-googles-turboquant-hits-apple-silicon-ad59f9292d1c?source=rss-c403e2b09f16------2)
 - [A 397B Model Running on a MacBook. 48 GB of RAM. No Cloud](https://pub.towardsai.net/a-397b-model-running-on-a-macbook-48-gb-of-ram-no-cloud-3fe52022b839?source=rss-c403e2b09f16------2)
-- [Netflix Just Open-Sourced VOID: A Model that Removes Objects from Videos](https://kashif-mehmood-km.medium.com/netflix-just-open-sourced-a-video-editor-that-understands-physics-4a05957d8551?source=rss-c403e2b09f16------2)
 <!-- BLOG-POST-LIST:END -->
 
 
