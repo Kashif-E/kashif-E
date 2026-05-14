@@ -10,7 +10,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Understanding KV Cache in LLMs and How It Affects Inference](https://pub.towardsai.net/understanding-kv-cache-in-llms-and-how-it-affects-inference-a59c8860a57c?source=rss-c403e2b09f16------2)
+- [KV Cache in LLMs and How It Affects Inference](https://pub.towardsai.net/understanding-kv-cache-in-llms-and-how-it-affects-inference-a59c8860a57c?source=rss-c403e2b09f16------2)
 - [From 5 fps to 30 fps: What the TFLite Defaults Are Hiding](https://proandroiddev.com/from-5-fps-to-30-fps-what-the-tflite-defaults-are-hiding-a8fbf0d20ff6?source=rss-c403e2b09f16------2)
 - [Building a deep research agent with koog: Giving your agent memory and real tools](https://proandroiddev.com/building-a-deep-research-agent-with-koog-giving-your-agent-memory-and-real-tools-f75d81d672a4?source=rss-c403e2b09f16------2)
 - [AWS Agent Registry: The Governance Layer Your Agent Sprawl Needs](https://pub.towardsai.net/aws-agent-registry-the-governance-layer-your-agent-sprawl-needs-d87d90b4deb1?source=rss-c403e2b09f16------2)
