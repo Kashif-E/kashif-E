@@ -10,10 +10,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [MiniMax M3 Just Killed Closed-Source Models](https://pub.towardsai.net/minimax-m3-just-killed-closed-source-models-21ba7c56b052?source=rss-c403e2b09f16------2)
 - [AI, AI Agents, and Agentic AI, Explained With One Birthday Cake](https://pub.towardsai.net/ai-ai-agents-and-agentic-ai-explained-with-one-birthday-cake-80f485ac3d1b?source=rss-c403e2b09f16------2)
 - [MLX vs oMLX vs MTPLX: Apple Silicon’s LLM Stack Explained](https://pub.towardsai.net/mlx-vs-omlx-vs-mtplx-apple-silicons-llm-stack-explained-6d1fec6c73c3?source=rss-c403e2b09f16------2)
 - [KV Cache in LLMs and How It Affects Inference](https://pub.towardsai.net/understanding-kv-cache-in-llms-and-how-it-affects-inference-a59c8860a57c?source=rss-c403e2b09f16------2)
-- [From 5 fps to 30 fps: What the TFLite Defaults Are Hiding](https://proandroiddev.com/from-5-fps-to-30-fps-what-the-tflite-defaults-are-hiding-a8fbf0d20ff6?source=rss-c403e2b09f16------2)
 <!-- BLOG-POST-LIST:END -->
 
 
