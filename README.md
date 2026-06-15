@@ -10,10 +10,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [614 vs 273 GB/s: Why a MacBook Still Beats NVIDIA’s New RTX Spark at Local LLMs](https://pub.towardsai.net/614-vs-273-gb-s-why-a-macbook-still-beats-nvidias-new-rtx-spark-at-local-llms-4a6e77fdd53e?source=rss-c403e2b09f16------2)
 - [Siri&#39;s New Brain Is a 1.2-Trillion-Parameter Gemini Running in Google&#39;s Cloud](https://pub.towardsai.net/siris-new-brain-is-a-1-2-trillion-parameter-gemini-running-in-google-s-cloud-7097e59da4bc?source=rss-c403e2b09f16------2)
 - [MiniMax M3 Just Killed Closed-Source Models](https://pub.towardsai.net/minimax-m3-just-killed-closed-source-models-21ba7c56b052?source=rss-c403e2b09f16------2)
 - [AI, AI Agents, and Agentic AI, Explained With One Birthday Cake](https://pub.towardsai.net/ai-ai-agents-and-agentic-ai-explained-with-one-birthday-cake-80f485ac3d1b?source=rss-c403e2b09f16------2)
-- [Apple Silicon’s LLM Stack Has Three Layers. Here’s Which One You Should Actually Be Using.](https://pub.towardsai.net/mlx-vs-omlx-vs-mtplx-apple-silicons-llm-stack-explained-6d1fec6c73c3?source=rss-c403e2b09f16------2)
 <!-- BLOG-POST-LIST:END -->
 
 
