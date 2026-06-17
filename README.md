@@ -10,10 +10,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Apple Cut Siri AI From 450 Million EU iPhones Rather Than Open It to Rivals: The Siri Extensions…](https://levelup.gitconnected.com/apple-cut-siri-ai-from-450-million-eu-iphones-rather-than-open-it-to-rivals-the-siri-extensions-59d41c734282?source=rss-c403e2b09f16------2)
 - [614 vs 273 GB/s: Why a MacBook Still Beats NVIDIA’s New RTX Spark at Local LLMs](https://pub.towardsai.net/614-vs-273-gb-s-why-a-macbook-still-beats-nvidias-new-rtx-spark-at-local-llms-4a6e77fdd53e?source=rss-c403e2b09f16------2)
 - [Siri&#39;s New Brain Is a 1.2-Trillion-Parameter Gemini Running in Google&#39;s Cloud](https://pub.towardsai.net/siris-new-brain-is-a-1-2-trillion-parameter-gemini-running-in-google-s-cloud-7097e59da4bc?source=rss-c403e2b09f16------2)
 - [MiniMax M3 Just Killed Closed-Source Models](https://pub.towardsai.net/minimax-m3-just-killed-closed-source-models-21ba7c56b052?source=rss-c403e2b09f16------2)
-- [AI, AI Agents, and Agentic AI, Explained With One Birthday Cake](https://pub.towardsai.net/ai-ai-agents-and-agentic-ai-explained-with-one-birthday-cake-80f485ac3d1b?source=rss-c403e2b09f16------2)
 <!-- BLOG-POST-LIST:END -->
 
 
