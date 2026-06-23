@@ -12,7 +12,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [“Running Local Models Is Good Now” Was Written on a 64GB Mac. Half of You Have 16GB or Less](https://pub.towardsai.net/running-local-models-is-good-now-was-written-on-a-64gb-mac-half-of-you-have-16gb-or-less-0c576f655821?source=rss-c403e2b09f16------2)
 - [GLM-5.2 Beats GPT-5.5 on Coding at 1/6 the Cost](https://levelup.gitconnected.com/glm-5-2-beats-gpt-5-5-on-coding-at-1-6-the-cost-3b228a78de07?source=rss-c403e2b09f16------2)
-- [China’s Coding Model, Kimi K2.7 Code, is 6x Cheaper Than Claude. It also Grades Its Own Homework](https://pub.towardsai.net/chinas-coding-model-kimi-k2-7-code-is-6x-cheaper-than-claude-it-also-grades-its-own-homework-d7fd52c2532e?source=rss-c403e2b09f16------2)
+- [Moonshot’s Kimi K2.7 Code launch: A Model that can only win on tests it wrote itself](https://pub.towardsai.net/chinas-coding-model-kimi-k2-7-code-is-6x-cheaper-than-claude-it-also-grades-its-own-homework-d7fd52c2532e?source=rss-c403e2b09f16------2)
 - [Apple Cut Siri AI From 450 Million EU iPhones Rather Than Open It to Rivals: The Siri Extensions…](https://levelup.gitconnected.com/apple-cut-siri-ai-from-450-million-eu-iphones-rather-than-open-it-to-rivals-the-siri-extensions-59d41c734282?source=rss-c403e2b09f16------2)
 <!-- BLOG-POST-LIST:END -->
 
