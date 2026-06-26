@@ -10,10 +10,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Apple’s Anti-Docker Gives Every Container Its Own VM: Boots in Under a Second](https://levelup.gitconnected.com/apples-anti-docker-gives-every-container-its-own-vm-boots-in-under-a-second-c65a491ecd05?source=rss-c403e2b09f16------2)
 - [Japan Just Entered the AI Race with Sakana, Claiming to Beat Mythos with a Router](https://levelup.gitconnected.com/japan-just-entered-the-ai-race-with-sakana-claiming-to-beat-mythos-with-a-router-691b9b56ccbe?source=rss-c403e2b09f16------2)
 - [“Running Local Models Is Good Now” Was Written on a 64GB Mac. Half of You Have 16GB or Less](https://pub.towardsai.net/running-local-models-is-good-now-was-written-on-a-64gb-mac-half-of-you-have-16gb-or-less-0c576f655821?source=rss-c403e2b09f16------2)
 - [GLM-5.2 Beats GPT-5.5 on Coding at 1/6 the Cost](https://levelup.gitconnected.com/glm-5-2-beats-gpt-5-5-on-coding-at-1-6-the-cost-3b228a78de07?source=rss-c403e2b09f16------2)
-- [Moonshot’s Kimi K2.7 Code launch: A Model that can only win on tests it wrote itself](https://pub.towardsai.net/chinas-coding-model-kimi-k2-7-code-is-6x-cheaper-than-claude-it-also-grades-its-own-homework-d7fd52c2532e?source=rss-c403e2b09f16------2)
 <!-- BLOG-POST-LIST:END -->
 
 
