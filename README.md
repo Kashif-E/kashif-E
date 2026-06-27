@@ -10,10 +10,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Korea Built the Most Leveraged Bet on the AI Boom. In June, It Got a Preview.](https://pub.towardsai.net/korea-built-the-most-leveraged-bet-on-the-ai-boom-in-june-it-got-a-preview-993cb12bd2d9?source=rss-c403e2b09f16------2)
 - [Alibaba Queried Anthropic&#39;s Claude 29 Million Times. It Still Can’t Copy it *period*](https://pub.towardsai.net/alibaba-queried-anthropics-claude-29-million-times-it-still-cant-copy-it-period-34532830f80a?source=rss-c403e2b09f16------2)
 - [Apple’s Anti-Docker Gives Every Container Its Own VM: Boots in Under a Second](https://levelup.gitconnected.com/apples-anti-docker-gives-every-container-its-own-vm-boots-in-under-a-second-c65a491ecd05?source=rss-c403e2b09f16------2)
 - [Japan Just Entered the AI Race with Sakana, Claiming to Beat Mythos with a Router](https://levelup.gitconnected.com/japan-just-entered-the-ai-race-with-sakana-claiming-to-beat-mythos-with-a-router-691b9b56ccbe?source=rss-c403e2b09f16------2)
-- [“Running Local Models Is Good Now” Was Written on a 64GB Mac. Half of You Have 16GB or Less](https://pub.towardsai.net/running-local-models-is-good-now-was-written-on-a-64gb-mac-half-of-you-have-16gb-or-less-0c576f655821?source=rss-c403e2b09f16------2)
 <!-- BLOG-POST-LIST:END -->
 
 
