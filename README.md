@@ -10,10 +10,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Zuckerberg Admits AI Agents Are Behind Schedule. Meta’s Bill So Far: $145B and 8,000 Jobs](https://pub.towardsai.net/zuckerberg-admits-ai-agents-are-behind-schedule-metas-bill-so-far-145b-and-8-000-jobs-59af6f139a26?source=rss-c403e2b09f16------2)
 - [Anthropic’s War on Open-Source AI, or Is It Just Afraid?](https://pub.towardsai.net/anthropics-war-on-open-source-ai-or-is-it-just-afraid-4a97a7956dcf?source=rss-c403e2b09f16------2)
 - [Ornith 1.0: The 9B Coding Model That Writes Its Own Harness](https://levelup.gitconnected.com/ornith-1-0-the-9b-coding-model-that-writes-its-own-harness-adfe146abd0f?source=rss-c403e2b09f16------2)
 - [Korea Built the Most Leveraged Bet on the AI Boom. In June, It Got a Preview.](https://pub.towardsai.net/korea-built-the-most-leveraged-bet-on-the-ai-boom-in-june-it-got-a-preview-993cb12bd2d9?source=rss-c403e2b09f16------2)
-- [Alibaba Queried Anthropic&#39;s Claude 29 Million Times. It Still Can’t Copy it *period*](https://pub.towardsai.net/alibaba-queried-anthropics-claude-29-million-times-it-still-cant-copy-it-period-34532830f80a?source=rss-c403e2b09f16------2)
 <!-- BLOG-POST-LIST:END -->
 
 
