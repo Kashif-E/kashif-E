@@ -10,10 +10,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Claude Sonnet 5 Benchmarks: The $2 Model That Caught the $5 Flagship](https://pub.towardsai.net/claude-sonnet-5-benchmarks-the-2-model-that-caught-the-5-flagship-eff113c9994f?source=rss-c403e2b09f16------2)
 - [Zuckerberg Admits AI Agents Are Behind Schedule. Meta’s Bill So Far: $145B and 8,000 Jobs](https://pub.towardsai.net/zuckerberg-admits-ai-agents-are-behind-schedule-metas-bill-so-far-145b-and-8-000-jobs-59af6f139a26?source=rss-c403e2b09f16------2)
 - [Anthropic’s War on Open-Source AI, or Is It Just Afraid?](https://pub.towardsai.net/anthropics-war-on-open-source-ai-or-is-it-just-afraid-4a97a7956dcf?source=rss-c403e2b09f16------2)
 - [Ornith 1.0: The 9B Coding Model That Writes Its Own Harness](https://levelup.gitconnected.com/ornith-1-0-the-9b-coding-model-that-writes-its-own-harness-adfe146abd0f?source=rss-c403e2b09f16------2)
-- [Korea Built the Most Leveraged Bet on the AI Boom. In June, It Got a Preview.](https://pub.towardsai.net/korea-built-the-most-leveraged-bet-on-the-ai-boom-in-june-it-got-a-preview-993cb12bd2d9?source=rss-c403e2b09f16------2)
 <!-- BLOG-POST-LIST:END -->
 
 
