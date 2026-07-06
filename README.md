@@ -10,10 +10,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [The Great AI Replacement Hit a Spreadsheet: Microsoft and Uber Can’t Afford Their Own Agents](https://pub.towardsai.net/the-great-ai-replacement-hit-a-spreadsheet-microsoft-and-uber-cant-afford-their-own-agents-958bfeeeeacd?source=rss-c403e2b09f16------2)
+- [Claude Fable 5 Is Back!!! But It’s Not the Same Model](https://levelup.gitconnected.com/claude-fable-5-is-back-but-its-not-the-same-model-689e3f1e138b?source=rss-c403e2b09f16------2)
 - [White House AI Standards: 30-Day Reviews, 3 Labs, and a Classified Pass Bar](https://pub.towardsai.net/white-house-ai-standards-30-day-reviews-3-labs-and-a-classified-pass-bar-2a91ab120318?source=rss-c403e2b09f16------2)
 - [Claude Sonnet 5 Benchmarks: The $2 Model That Caught the $5 Flagship](https://pub.towardsai.net/claude-sonnet-5-benchmarks-the-2-model-that-caught-the-5-flagship-eff113c9994f?source=rss-c403e2b09f16------2)
-- [Zuckerberg Admits AI Agents Are Behind Schedule. Meta’s Bill So Far: $145B and 8,000 Jobs](https://pub.towardsai.net/zuckerberg-admits-ai-agents-are-behind-schedule-metas-bill-so-far-145b-and-8-000-jobs-59af6f139a26?source=rss-c403e2b09f16------2)
-- [Anthropic’s War on Open-Source AI, or Is It Just Afraid?](https://pub.towardsai.net/anthropics-war-on-open-source-ai-or-is-it-just-afraid-4a97a7956dcf?source=rss-c403e2b09f16------2)
 <!-- BLOG-POST-LIST:END -->
 
 
