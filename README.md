@@ -10,10 +10,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Tencent Hy3 Review: 21B-Active Open MoE That Beat GLM-5.1 in a Blind Test](https://pub.towardsai.net/tencent-hy3-review-21b-active-open-moe-that-beat-glm-5-1-in-a-blind-test-f2e8700d5a5d?source=rss-c403e2b09f16------2)
+- [Apple Is Suing OpenAI. The Real Story Is What OpenAI Can’t Build.](https://pub.towardsai.net/apple-is-suing-openai-the-real-story-is-what-openai-cant-build-d21f587f10f5?source=rss-c403e2b09f16------2)
 - [Grok 4.5 Uses 4.2x Fewer Tokens and Costs 17x Less Than Opus 4.8](https://pub.towardsai.net/grok-4-5-uses-4-2x-fewer-tokens-and-costs-17x-less-than-opus-4-8-6211d38806a2?source=rss-c403e2b09f16------2)
 - [China’s LongCat-2.0 is a 1.6T Model Trained Without NVIDIA](https://pub.towardsai.net/chinas-longcat-2-0-is-a-1-6t-model-trained-without-nvidia-705ecac7c994?source=rss-c403e2b09f16------2)
-- [Ollama MLX Nearly Doubles LLM Speed on Your Mac: 58 to 112 tok/s, and Your Old Models Get None of…](https://levelup.gitconnected.com/ollama-mlx-nearly-doubles-llm-speed-on-your-mac-58-to-112-tok-s-and-your-old-models-get-none-of-fd1a9ec531fb?source=rss-c403e2b09f16------2)
-- [Qwen-AgentWorld: The Model Trained to Be the Environment, Not the Agent and Beats Opus](https://pub.towardsai.net/qwen-agentworld-the-model-trained-to-be-the-environment-not-the-agent-and-beats-opus-5d41f3366415?source=rss-c403e2b09f16------2)
 <!-- BLOG-POST-LIST:END -->
 
 
