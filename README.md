@@ -10,10 +10,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Grok 4.5 Uses 4.2x Fewer Tokens and Costs 17x Less Than Opus 4.8](https://pub.towardsai.net/grok-4-5-uses-4-2x-fewer-tokens-and-costs-17x-less-than-opus-4-8-6211d38806a2?source=rss-c403e2b09f16------2)
 - [China’s LongCat-2.0 is a 1.6T Model Trained Without NVIDIA](https://pub.towardsai.net/chinas-longcat-2-0-is-a-1-6t-model-trained-without-nvidia-705ecac7c994?source=rss-c403e2b09f16------2)
 - [Ollama MLX Nearly Doubles LLM Speed on Your Mac: 58 to 112 tok/s, and Your Old Models Get None of…](https://levelup.gitconnected.com/ollama-mlx-nearly-doubles-llm-speed-on-your-mac-58-to-112-tok-s-and-your-old-models-get-none-of-fd1a9ec531fb?source=rss-c403e2b09f16------2)
 - [Qwen-AgentWorld: The Model Trained to Be the Environment, Not the Agent and Beats Opus](https://pub.towardsai.net/qwen-agentworld-the-model-trained-to-be-the-environment-not-the-agent-and-beats-opus-5d41f3366415?source=rss-c403e2b09f16------2)
-- [The Great AI Replacement Hit a Spreadsheet: Microsoft and Uber Can’t Afford Their Own Agents](https://pub.towardsai.net/the-great-ai-replacement-hit-a-spreadsheet-microsoft-and-uber-cant-afford-their-own-agents-958bfeeeeacd?source=rss-c403e2b09f16------2)
 <!-- BLOG-POST-LIST:END -->
 
 
