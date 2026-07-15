@@ -10,10 +10,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [A Better Model Won’t Fix Your AI Agent. A Better Harness Will](https://levelup.gitconnected.com/a-better-model-wont-fix-your-ai-agent-a-better-harness-will-01976aaf51ee?source=rss-c403e2b09f16------2)
 - [Unisound U2: The 266B Model That Scored 87.9% on PhD-Level Science for $0.15/M](https://pub.towardsai.net/unisound-u2-the-266b-model-that-scored-87-9-on-phd-level-science-for-0-15-m-c64034f37fd7?source=rss-c403e2b09f16------2)
 - [Tencent Hy3 Review: 21B-Active Open MoE That Beat GLM-5.1 in a Blind Test](https://pub.towardsai.net/tencent-hy3-review-21b-active-open-moe-that-beat-glm-5-1-in-a-blind-test-f2e8700d5a5d?source=rss-c403e2b09f16------2)
 - [Apple Is Suing OpenAI. The Real Story Is What OpenAI Can’t Build.](https://pub.towardsai.net/apple-is-suing-openai-the-real-story-is-what-openai-cant-build-d21f587f10f5?source=rss-c403e2b09f16------2)
-- [Grok 4.5 Uses 4.2x Fewer Tokens and Costs 17x Less Than Opus 4.8](https://pub.towardsai.net/grok-4-5-uses-4-2x-fewer-tokens-and-costs-17x-less-than-opus-4-8-6211d38806a2?source=rss-c403e2b09f16------2)
 <!-- BLOG-POST-LIST:END -->
 
 
