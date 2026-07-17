@@ -10,10 +10,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Mira Murati’s 975B Inkling Doesn’t Beat GPT or Claude. That’s the Point.](https://pub.towardsai.net/mira-muratis-975b-inkling-doesn-t-beat-gpt-or-claude-that-s-the-point-4a6aaa240533?source=rss-c403e2b09f16------2)
 - [Kimi-K3: The 2.8-Trillion-Parameter Open Model That Beat Claude Fable at Frontend](https://pub.towardsai.net/kimi-k3-the-2-8-trillion-parameter-open-model-that-beat-claude-fable-at-frontend-75a1897b29d7?source=rss-c403e2b09f16------2)
 - [A Better Model Won’t Fix Your AI Agent. A Better Harness Will](https://levelup.gitconnected.com/a-better-model-wont-fix-your-ai-agent-a-better-harness-will-01976aaf51ee?source=rss-c403e2b09f16------2)
 - [Unisound U2: The 266B Model That Scored 87.9% on PhD-Level Science for $0.15/M](https://pub.towardsai.net/unisound-u2-the-266b-model-that-scored-87-9-on-phd-level-science-for-0-15-m-c64034f37fd7?source=rss-c403e2b09f16------2)
-- [Tencent Hy3 Review: 21B-Active Open MoE That Beat GLM-5.1 in a Blind Test](https://pub.towardsai.net/tencent-hy3-review-21b-active-open-moe-that-beat-glm-5-1-in-a-blind-test-f2e8700d5a5d?source=rss-c403e2b09f16------2)
 <!-- BLOG-POST-LIST:END -->
 
 
